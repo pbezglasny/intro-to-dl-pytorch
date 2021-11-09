@@ -11,6 +11,8 @@ data
 *.jpg
 *.txt
 *tar.gz
+*.tgz
+
 
 # Distribution / packaging
 .Python
