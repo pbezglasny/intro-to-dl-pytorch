@@ -10,6 +10,7 @@ data
 *.jpeg
 *.jpg
 *.txt
+*tar.gz
 
 # Distribution / packaging
 .Python
